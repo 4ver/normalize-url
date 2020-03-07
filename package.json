@@ -42,6 +42,6 @@
 		"xo": "^0.24.0"
 	},
 	"dependencies": {
-		"universal-url": "^2.0.0",
+		"universal-url": "^2.0.0"
 	}
 }
